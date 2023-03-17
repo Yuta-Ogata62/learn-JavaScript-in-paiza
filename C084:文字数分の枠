@@ -1,6 +1,6 @@
 const string = "Paiza".length;
 let frame =  "++";
-console.log(string);
+//console.log(string);
 
 for (let i = 0; i < string; i++){
     frame = frame + "+"
